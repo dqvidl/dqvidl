@@ -1,15 +1,18 @@
 ## hey! i'm david.
 
-student @ uwaterloo
+student @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
+
+currently:
+
+◆ Software Developer @ UW Blueprint
 
 what i've been building:
 
-◆ Technical Founder @ PlayCreate - Cursor for Sports Coaching, 12M+ views, 1,000+ users \
-◆ Dora the Web Developer - Scratch for learning HTML/CSS
+◆ Technical Founder @ PlayCreate - Cursor for Sports Coaching, 25M+ views, 1,000+ users \
 
 previously:
 
-◆ Radio Astronomy Researcher @ Princeton \
+◆ Research Assistant @ Princeton \
 ◆ Unfounders Fellow: pitched at SF Tech Week (~2% acceptance)
 
 
