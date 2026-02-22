@@ -4,16 +4,16 @@ student @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
 
 currently:
 
-◆ Software Developer @ UW Blueprint
+* Software Developer @ UW Blueprint
 
 what i've been building:
 
-◆ PlayCreate - Cursor for Sports Coaching, 25M+ views, 1,000+ users 
+* PlayCreate - Cursor for Sports Coaching, 25M+ views, 1,000+ users 
 
 previously:
 
-◆ Research Assistant @ Princeton \
-◆ Unfounders Fellow: pitched at SF Tech Week (~2% acceptance)
+* Research Assistant @ Princeton \
+* Unfounders Fellow: pitched at SF Tech Week (~2% acceptance)
 
 
 <!--
