@@ -8,7 +8,7 @@ currently:
 
 what i've been building:
 
-◆ Technical Founder @ PlayCreate - Cursor for Sports Coaching, 25M+ views, 1,000+ users 
+◆ PlayCreate - Cursor for Sports Coaching, 25M+ views, 1,000+ users 
 
 previously:
 
