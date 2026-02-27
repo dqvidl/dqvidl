@@ -12,7 +12,7 @@ what i've been building:
 
 previously:
 
-* Research Assistant @ Princeton \
+* Research Assistant @ Princeton
 * Unfounders Fellow: pitched at SF Tech Week (~2% acceptance)
 
 
