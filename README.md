@@ -4,19 +4,18 @@ student @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
 
 currently:
 
-* Incoming Research Engineer Intern @ Axiom
-* Software Engineer Intern @ Ford
-* Software Developer @ UW Blueprint
+* Incoming Research Engineer Intern @ [Axiom](https://axiommath.ai/)                                                                                  
+* Software Engineer Intern @ [Ford](https://www.ford.ca/)
+* Software Developer @ [UW Blueprint](https://uwblueprint.org/)   
 
 what i've been building:
 
-* PlayCreate - Cursor for Sports Coaching, 45M+ views, 1,500+ users 
+* [PlayCreate](https://tryplaycreate.com/) - Cursor for Sports Coaching, 45M+ views, 1,500+ users
 
 previously:
 
 * Research @ Princeton
-* Unfounders Fellow: pitched at a16z's SF Tech Week (~2% acceptance)
-
+* Unfounders Fellow: pitched at a16z's SF Tech Week (~2% acceptance) 
 
 <!--
 **dqvidl/dqvidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
