@@ -4,6 +4,8 @@ student @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
 
 currently:
 
+* Incoming Research Engineer Intern @ Axiom
+* Software Engineer Intern @ Ford
 * Software Developer @ UW Blueprint
 
 what i've been building:
