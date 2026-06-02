@@ -10,7 +10,7 @@ currently:
 
 what i've been building:
 
-* [PlayCreate](https://tryplaycreate.com/) - Cursor for Sports Coaching, 45M+ views, 1,500+ users
+* [PlayCreate](https://tryplaycreate.com/) - Cursor for Sports Coaching, 50M+ views, 1,500+ users
 
 previously:
 
