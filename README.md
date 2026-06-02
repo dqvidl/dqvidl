@@ -5,7 +5,7 @@ student @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
 currently:
 
 * Incoming Research Engineer Intern @ [Axiom](https://axiommath.ai/)                                                                                  
-* Software Engineer Intern @ [Ford](https://www.ford.ca/)
+* SWE Intern @ [Mercor](https://www.mercor.com/), [Ford](https://www.ford.ca/)
 * Software Developer @ [UW Blueprint](https://uwblueprint.org/)   
 
 what i've been building:
