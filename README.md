@@ -5,11 +5,6 @@ cs + math @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
 currently:
 
 * Incoming Research Engineer Intern @ [Axiom](https://axiommath.ai/)
-* Software Developer @ [UW Blueprint](https://uwblueprint.org/)   
-
-what i've been building:
-
-* [PlayCreate](https://tryplaycreate.com/) - Cursor for Sports Coaching, 50M+ views, 1,500+ users
 
 previously:
 
