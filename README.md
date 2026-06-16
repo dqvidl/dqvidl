@@ -1,6 +1,6 @@
 ## hey! i'm david.
 
-student @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
+cs + math @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
 
 currently:
 
