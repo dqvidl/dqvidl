@@ -5,6 +5,7 @@ cs + math @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
 currently:
 
 * Incoming Research Engineer Intern @ [Axiom](https://axiommath.ai/)
+* SWE Intern @ [Mercor](https://www.mercor.com/), [Ford](https://www.ford.ca/)
 
 previously:
 
