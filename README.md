@@ -10,7 +10,6 @@ currently:
 previously:
 
 * Research @ Princeton
-* Unfounders Fellow: pitched at a16z's SF Tech Week (~2% acceptance) 
 
 <!--
 **dqvidl/dqvidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
