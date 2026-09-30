@@ -5,7 +5,7 @@ cs + math @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
 currently:
 
 * Incoming Quantitative Trading Intern @ [SIG](https://sig.com/)
-* Incoming Research Engineer Intern @ [Axiom](https://axiommath.ai/)
+* Research Engineer Intern @ [Axiom](https://axiommath.ai/)
 * Engineering @ [Mercor](https://www.mercor.com/)
 
 previously:
