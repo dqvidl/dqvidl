@@ -6,10 +6,10 @@ currently:
 
 * Incoming Quantitative Trading Intern @ [SIG](https://sig.com/)
 * Research Engineer Intern @ [Axiom](https://axiommath.ai/)
-* Engineering @ [Mercor](https://www.mercor.com/)
 
 previously:
 
+* Engineering @ [Mercor](https://www.mercor.com/)
 * Research @ Princeton
 
 <!--
