@@ -8,7 +8,7 @@ currently:
 
 previously:
 
-Engineering @ [Mercor](https://www.mercor.com/)
+@ [Mercor](https://www.mercor.com/)
 
 <!--
 **dqvidl/dqvidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
