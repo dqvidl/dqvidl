@@ -4,12 +4,11 @@ cs + math @ uwaterloo, 3x olympiad (USAMO, USACO, BPhO)
 
 currently:
 
-* @ [Axiom](https://axiommath.ai/)
+@ [Axiom](https://axiommath.ai/)
 
 previously:
 
-* Engineering @ [Mercor](https://www.mercor.com/)
-* Research @ Princeton
+Engineering @ [Mercor](https://www.mercor.com/)
 
 <!--
 **dqvidl/dqvidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
